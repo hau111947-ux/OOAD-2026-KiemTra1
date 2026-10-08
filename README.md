@@ -14,7 +14,7 @@ Hệ thống quản lý nhà hàng IT25 cần đáp ứng các chức năng chí
 ## II. SƠ ĐỒ USE-CASE
 ### 1. Hình ảnh sơ đồ Use-Case
 *(Đặt ảnh bạn tự vẽ vào cùng thư mục với tên `usecase-diagram.png` hoặc cập nhật đúng đường dẫn bên dưới)*
-![Sơ đồ Use-Case](usecase-diagram.png)
+![Sơ đồ Use-Case](UseCaseDiagram2.jpg)
 ---
 ## III. MÔ TẢ CHI TIẾT 2 USE-CASE TIÊU BIỂU
 ### 1. Use-Case: Tiếp nhận và Gọi món (Order)
@@ -65,7 +65,7 @@ Hệ thống quản lý nhà hàng IT25 cần đáp ứng các chức năng chí
 ### 1. Hình ảnh sơ đồ Class Diagram
 *(Đặt ảnh bạn tự vẽ vào cùng thư mục với tên `class-diagram.png` hoặc cập nhật đúng đường dẫn bên dưới)*
 
-![Sơ đồ Class Diagram](class-diagram.png)
+![Sơ đồ Class Diagram](ClassDiagram3.jpg)
 
 ---
 
